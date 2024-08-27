@@ -18,7 +18,7 @@ public class PercentageCalculator extends JFrame implements ActionListener {
         setLocationRelativeTo(null);
 
         // Create UI components
-        JLabel name1Label = new JLabel("Inter Aswathi");
+        JLabel name1Label = new JLabel("Intern Aswathi");
         setLayout(new FlowLayout());
         JLabel input1Label = new JLabel("Input Value 1:");
         
